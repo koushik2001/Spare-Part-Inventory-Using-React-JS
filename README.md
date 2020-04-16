@@ -1,5 +1,6 @@
 # Spare-Part-Inventory-Using-React-JS
-## Web Application
+## Description
+### Spare-Part-Inventory-Using-React-JS is a Web Application used for managing and buying spare parts 
 ### Home Page
 ![](public/img/img1.PNG)
 
